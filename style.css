@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+}
+
+#mainheader {
+  background: linear-gradient(332deg,#5d9c6e,#447559);
+}
+
+#mainheader h1 {
+  margin: 0;
+}
+
+#mainheader * {
+  color: #fff;
+  fill: #fff;
+}
+
+.demo-container {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
