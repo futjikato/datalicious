@@ -1,1 +1,1 @@
-# datalist-component
+# datalicious
